@@ -1,0 +1,14 @@
+<resources>
+    <string name="capture">Capture</string>
+    <string name="done">Done</string>
+    <string name="takenpicture">Picture Taken Successfully</string>
+    <string name="app_name">OnlineMovingEstimator</string>
+    <string name="enterCode">Enter Estimate Code:</string>
+    <string name="tmaat">TWO MEN AND A TRUCK</string>
+    <string name="submit">Submit</string>
+    <string name="code">Estimate ID</string>
+    <string name="about">Take pictures of your furniture and we\'ll provide you with a quick estimate. To remove duplicate accounts of furniture or specify types of furniture, you can do so before getting the quick estimate.</string>
+    <string name="takeImage">take images</string>
+    <string name="loadTitle">Finalize List For Quick Estimate</string>
+    <string name="take_pictures_of_your_furniture_and_we_ll_provide_you_with_a_quick_estimate_to_remove_duplicate_accounts_of_furniture_or_specify_types_of_furniture_you_can_do_so_before_getting_the_quick_estimate">Take pictures of your furniture and we\'ll provide you with a quick estimate. To remove duplicate accounts of furniture or specify types of furniture, you can do so before getting the quick estimate.</string>
+</resources>

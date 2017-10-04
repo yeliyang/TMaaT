@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tmaat.dtara.onlinemovingestimator.Intro">
+
+    <TextView
+        android:id="@+id/aboutTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/app_name"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/aboutTitle"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginRight="180dp"
+        android:text="@string/take_pictures_of_your_furniture_and_we_ll_provide_you_with_a_quick_estimate_to_remove_duplicate_accounts_of_furniture_or_specify_types_of_furniture_you_can_do_so_before_getting_the_quick_estimate"
+        android:textSize="24sp"
+        android:textAlignment="viewStart" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="92dp"
+        android:onClick="onContinue"
+        android:text="@string/takeImage" />
+</RelativeLayout>

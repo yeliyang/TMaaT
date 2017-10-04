@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cse498/Downloads/TMaaT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/cse498/Downloads/TMaaT/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cse498/Downloads/TMaaT/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/tmaat_logo.png",
+        "source": "/Users/cse498/Downloads/TMaaT/app/src/main/res/mipmap-xxxhdpi/tmaat_logo.png"
+    }
+]
